@@ -7,3 +7,5 @@ DuckDB is designed to handle complex data queries and it is optimized to perform
 It also supports several data types, it can be embedded in other software and it is lightweight, which means it doesn't require a lot of resources to run. This makes it useful for applications that need to run on limited resources such as IoT devices, mobile apps or edge computing.
 
 In summary, DuckDB is a powerful and efficient tool for storing, organizing and querying large amounts of data, whether it's for small projects or large-scale data warehousing and it can run on a variety of devices.
+
+DuckDB =  the simplicity of SQLlite + the power of Snowflake.
